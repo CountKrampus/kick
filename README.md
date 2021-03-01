@@ -1,4 +1,4 @@
-Discord.js Bot
+KrampusBot.js
 
 Features:
 Moderation Commands such as;
