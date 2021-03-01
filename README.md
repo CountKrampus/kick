@@ -27,4 +27,4 @@ Voice Commands;
 <h3>Planned features:</h3>
 - Database
 
-- Server Economy (including a store, minigame, bank, levels etc.
+- Server Economy (including a store, minigame, bank, levels, etc.)
