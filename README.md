@@ -25,5 +25,6 @@ Voice Commands;
 
 
 <h3>Planned features:</h3>
-- Database/n
+- Database
+
 - Server Economy
