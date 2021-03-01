@@ -22,4 +22,8 @@ Voice Commands;
 - Join (makes the bot join the voice chat the user is in)
 - Leave (makes the bot leave the voice chat)
 
-Hopefully more to come :D
+
+
+<h3>Planned features:</h3>
+- Database
+- Server Economy
