@@ -1,7 +1,4 @@
-<p align="center">
-  KrampusBot.js
-</p>
-
+<h1 align="center">Material Bread</h1>
 
 <h2>Feature:</h2>
 
