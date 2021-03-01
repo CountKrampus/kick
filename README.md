@@ -1,6 +1,7 @@
 KrampusBot.js
 
 Features:
+
 Moderation Commands such as;
 - Ban/mute/kick (along with unban, unmute)
 - Nuke (deletes and remakes chat channel)
