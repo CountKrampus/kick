@@ -1,4 +1,7 @@
-<center><h1>KrampusBot.js</h1></center>
+<p align="center">
+  <h1>KrampusBot.js</h1>
+</p>
+
 
 <h2>Feature:</h2>
 
