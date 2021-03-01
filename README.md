@@ -1,4 +1,4 @@
-<h1 align="center">Material Bread</h1>
+<h1 align="center">KrampusBot.js</h1>
 
 <h2>Feature:</h2>
 
