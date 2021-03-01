@@ -1,6 +1,6 @@
 <h1 align="center">KrampusBot.js</h1>
 
-<h2>Feature:</h2>
+<h2>Features:</h2>
 
 Moderation Commands such as;
 - Ban/mute/kick (along with unban, unmute)
