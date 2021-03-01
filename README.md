@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>KrampusBot.js</h1>
+  KrampusBot.js
 </p>
 
 
