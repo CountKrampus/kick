@@ -7,6 +7,7 @@ Moderation Commands such as;
 - Nuke (deletes and remakes chat channel)
 - Admin (for certain servers, allows you to give Admin to people)
 - Mod (for certain servers, allows you to give Mod to people)
+- Poll/Vote (Figured staff could use this more then normal users)
 
 Fun Commands;
 - Dice (rolls a 20 sided die)
@@ -16,6 +17,7 @@ Fun Commands;
 - Myinfo (Sends your Userid to your dm)
 - Say (Make the bot say something)
 - Meme command (to lazy to do api for this, so its just memes I manually added)
+- Suggestion/Suggest (lets you send a cleaner looking suggestion)
 
 Voice Commands;
 - Dolympus (says where to land in Apex Legeneds (Not updated to new map))
