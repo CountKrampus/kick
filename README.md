@@ -18,6 +18,7 @@ Fun Commands;
 - Say (Make the bot say something)
 - Meme command (to lazy to do api for this, so its just memes I manually added)
 - Suggestion/Suggest (lets you send a cleaner looking suggestion)
+- Snipe/Resend (snipes the last deleted message (might make it be staff only I don't know yet.))
 
 Voice Commands;
 - Dolympus (says where to land in Apex Legeneds (Not updated to new map))
