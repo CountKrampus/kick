@@ -25,7 +25,7 @@ Voice Commands;
 - Join (makes the bot join the voice chat the user is in)
 - Leave (makes the bot leave the voice chat)
 
-Voice Commands;
+Tools Commands;
 - Calculator (Lets you do some math)
 - Verify (Gives you a verified role which gives access to rest of channels) (Not added to bot isnt working properly)
 
