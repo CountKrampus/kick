@@ -32,4 +32,4 @@ client.on("presenceUpdate", (oldPresence, newPresence) => {
   await client.login(process.env.DISCORD_BOT_TOKEN);
 })();
 
-/// client.channels.cache.get(`805658262766092308`).send
+/// client.channels.cache.get(``).send
